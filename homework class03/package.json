@@ -1,0 +1,23 @@
+{
+  "name": "homework-class03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micrxn/homeworks-node-js-1.git"
+  },
+  "author": "Filip Blazhevski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/micrxn/homeworks-node-js-1/issues"
+  },
+  "homepage": "https://github.com/micrxn/homeworks-node-js-1#readme",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
